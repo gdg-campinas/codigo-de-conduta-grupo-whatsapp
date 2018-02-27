@@ -60,10 +60,16 @@ In case of violation of the established rules the Administrators will give a war
 
 ### Contact
 
-![WhatsApp](social/whatsapp.png) [Grupo no WhatsApp](https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ)
+![WhatsApp](social/whatsapp.png) [WhatsApp Group](https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ)
 
-![Facebook Page](social/facebook.png) [Página no Facebook](https://www.facebook.com/gdgcampinas/)
+![Facebook Page](social/facebook.png) [Facebook Page](https://www.facebook.com/gdgcampinas/)
 
-![Facebook Page](social/facebook.png) [Grupo no Facebook](https://www.facebook.com/groups/gdgcampinas/)
+![Facebook Page](social/facebook.png) [Facebook Group](https://www.facebook.com/groups/gdgcampinas/)
 
-![Meetup](social/meetup.png) [Grupo no Meetup](https://www.meetup.com/gdgcampinas/)
+![Meetup](social/meetup.png) [Meetup Group](https://www.meetup.com/gdgcampinas/)
+
+---
+
+Agradecemos ao SouJava Campinas por inspirar e nos auxiliar com a confecção desse código de conduta.
+
+We thank SouJava for helping inspiring and making this code of conduct
