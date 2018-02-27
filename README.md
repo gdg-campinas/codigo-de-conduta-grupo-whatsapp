@@ -1,8 +1,8 @@
-## Código de Conduta - Grupos no WhatsApp do SouJava
-Além de nos conhecermos melhor e criarmos um vínculo de amizade, estaremos sempre discutindo assuntos tais como: Linguagem Java, Tecnologia Java, Frameworks Java, meetups do SouJava Campinas, eventos relacionados a tecnologia discutida, projetos opensource.
+# Código de Conduta - Grupos no WhatsApp do GDG Campinas
+Além de nos conhecermos melhor e criarmos um vínculo de amizade, estaremos sempre discutindo assuntos relacionados a tecnologia e eventos de tecnologia.
 E para nos conhecermos melhor, os novos membros podem e devem se Apresentar assim que possível.
 
-**REGRAS**
+## REGRAS
 
 01. O envio de fotos, vídeos, Gif's e textos devem ser dosados com bom senso e de preferência relacionados ao tema do grupo.
 
@@ -20,19 +20,19 @@ E para nos conhecermos melhor, os novos membros podem e devem se Apresentar assi
 
 Os Administradores darão uma advertência e na segunda vez a pessoa será Removida/Banida 
 
-#Administradores do grupo no WhatsApp do SouJava Campinas JUG
+## Administradores do grupo no WhatsApp do GDG Campinas
 
 ### Contato
 
-Grupo SouJava Campinas JUG no WhatsApp: https://chat.whatsapp.com/4gVxIkyq6Ul8yJxIsDOYQV
+![](social/whatsapp.png =56x56) Grupo GDG Campinas no WhatsApp: https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ
 
-_________________________________________________
+---
 
-## Code of Conduct - Groups at SouJava WhatsApp
+# Code of Conduct - GDG Campinas WhatsApp Groups
 Besides knowing better and creating a bond of friendship, we will always be discussing subjects such as: Java language, Java technology, Java frameworks, SouJava Campinas meetups, technology related events discussed, opensource projects.
 And to get to know each other better, new members can and should introduce themselves as soon as possible.
 
-**RULES**
+## RULES
 
 01. The sending of photos, videos, Gif's and texts should be dosed with common sense and preferably related to the theme of the group.
 
@@ -50,8 +50,8 @@ And to get to know each other better, new members can and should introduce thems
 
 The Administrators will give a warning and the second time the person will be Removed / Banned
 
-#Support Manager at SouJava WhatsApp Campinas JUG
+## Support Manager at SouJava WhatsApp Campinas JUG
 
 ### Contact
 
-Grupo SouJava Campinas JUG at WhatsApp: https://chat.whatsapp.com/4gVxIkyq6Ul8yJxIsDOYQV
+GDG Campinas WhatsApp group: https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ
