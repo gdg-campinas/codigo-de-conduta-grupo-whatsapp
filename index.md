@@ -24,7 +24,7 @@ Os Administradores darão uma advertência e na segunda vez a pessoa será Remov
 
 ### Contato
 
-![WhatsApp](social/whatsapp.png =40x40) Grupo GDG Campinas no WhatsApp: https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ
+![WhatsApp](social/whatsapp.png){:height="40px" width="40px"} Grupo GDG Campinas no WhatsApp: https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ
 
 ---
 
