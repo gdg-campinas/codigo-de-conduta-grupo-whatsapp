@@ -72,4 +72,4 @@ In case of violation of the established rules the Administrators will give a war
 
 Agradecemos ao SouJava Campinas por inspirar e nos auxiliar com a confecção desse código de conduta.
 
-We thank SouJava for helping inspiring and making this code of conduct
+We thank SouJava Campinas for helping inspiring and making this code of conduct
