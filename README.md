@@ -1,6 +1,6 @@
 # Código de Conduta - Grupos no WhatsApp do GDG Campinas
 Além de nos conhecermos melhor e criarmos um vínculo de amizade, estaremos sempre discutindo assuntos relacionados a tecnologia e eventos de tecnologia.
-E para nos conhecermos melhor, os novos membros podem e devem se Apresentar assim que possível.
+E para nos conhecermos melhor, os novos membros podem e devem se presentar assim que possível.
 
 ## REGRAS
 
@@ -18,19 +18,25 @@ E para nos conhecermos melhor, os novos membros podem e devem se Apresentar assi
 
 07. Não vamos tolerar qualquer tipo de Falta de Respeito.
 
-Os Administradores darão uma advertência e na segunda vez a pessoa será Removida/Banida 
+Em caso de violação das regras, os Administradores darão uma advertência e na segunda vez a pessoa será Removida/Banida 
 
 ## Administradores do grupo no WhatsApp do GDG Campinas
 
 ### Contato
 
-- ![WhatsApp](social/whatsapp.png){:height="20px" width="20px"} [Grupo GDG Campinas no WhatsApp](https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ)
+![WhatsApp](social/whatsapp.png) [Grupo no WhatsApp](https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ)
+
+![Facebook Page](social/facebook.png) [Página no Facebook](https://www.facebook.com/gdgcampinas/)
+
+![Facebook Page](social/facebook.png) [Grupo no Facebook](https://www.facebook.com/groups/gdgcampinas/)
+
+![Meetup](social/meetup.png) [Grupo no Meetup](https://www.meetup.com/gdgcampinas/)
 
 ---
 
 # Code of Conduct - GDG Campinas WhatsApp Groups
-Besides knowing better and creating a bond of friendship, we will always be discussing subjects such as: Java language, Java technology, Java frameworks, SouJava Campinas meetups, technology related events discussed, opensource projects.
-And to get to know each other better, new members can and should introduce themselves as soon as possible.
+Aside from getting to know each other better and possibly becoming friends we're always discussing topics related to technology and technology centered events.
+New members can and should present themselves as soon as possible in order for us to get to know each other better 
 
 ## RULES
 
@@ -38,20 +44,26 @@ And to get to know each other better, new members can and should introduce thems
 
 02. Respect and be objective in questions to other people in the group.
 
-03. Let's avoid controversial issues like Politics and Religion, thus avoiding disagreements between the members.
+03. Let's avoid controversial issues like Politics and Religion, thus avoiding conflict between the members.
 
-04. It is forbidden to divulge Advertisements and Links of other Groups without the authorization of the Administrators.
+04. It is forbidden to promote Advertisements and Links of other Groups without the authorization of the Administrators.
 
-05. Pornographic profanity, profanity, photos or videos will not be accepted - this results in Immediate Removal!
+05. Pornographic content of any kind, profanity, photos or videos will not be accepted - sending this type of content results in **Immediate Removal!**
 
-06. Do not make fun, and do not treat Evil your group colleague, be well educated Respecting opinions that are different from yours.
+06. Do not make fun and do not treat your group colleagues unrespectfully. Be well educated and respecting towards opinions that differ from yours.
 
-07. We will not tolerate any kind of lack of respect.
+07. Lack of respect will not be tolerated.
 
-The Administrators will give a warning and the second time the person will be Removed / Banned
+In case of violation of the established rules the Administrators will give a warning and the second time the person will be Removed / Banned
 
-## Support Manager at SouJava WhatsApp Campinas JUG
+## GDG Campinas WhatsApp Group Admins
 
 ### Contact
 
-GDG Campinas WhatsApp group: https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ
+![WhatsApp](social/whatsapp.png) [Grupo no WhatsApp](https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ)
+
+![Facebook Page](social/facebook.png) [Página no Facebook](https://www.facebook.com/gdgcampinas/)
+
+![Facebook Page](social/facebook.png) [Grupo no Facebook](https://www.facebook.com/groups/gdgcampinas/)
+
+![Meetup](social/meetup.png) [Grupo no Meetup](https://www.meetup.com/gdgcampinas/)
