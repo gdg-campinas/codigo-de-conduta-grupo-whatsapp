@@ -12,9 +12,9 @@ E para nos conhecermos melhor, os novos membros podem e devem se presentar assim
 
 04. É proibido divulgar Propagandas e Links de outros Grupos sem autorização dos Administradores.
 
-05. Não serão aceitos: Palavrões, Ofensas, Fotos ou Vídeos Pornográficos - isto resulta em Remoção Imediata!
+05. Não serão aceitos: Palavrões, Ofensas, Fotos ou Vídeos Pornográficos - isto resulta em **Remoção Imediata!**
 
-06. Não tire sarro, e nem trate Mal seu colega de grupo, seja Bem Educado Respeitando Opiniões que são  Diferentes das suas.
+06. Não tire sarro, e nem trate Mal seu colega de grupo, seja Bem educado respeitando opiniões que são diferentes das suas.
 
 07. Não vamos tolerar qualquer tipo de Falta de Respeito.
 
@@ -70,6 +70,6 @@ In case of violation of the established rules the Administrators will give a war
 
 ---
 
-Agradecemos ao SouJava Campinas por inspirar e nos auxiliar com a confecção desse código de conduta.
+Agradecemos ao SouJava Campinas por inspirar esse código de conduta.
 
-We thank SouJava Campinas for helping inspiring and making this code of conduct
+We thank SouJava Campinas for helping inspiring this code of conduct
